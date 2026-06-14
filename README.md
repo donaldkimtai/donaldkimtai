@@ -1,7 +1,7 @@
 <h1 align="center">Donald Kimtai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Security+Engineer+%7C+Cloud+Native+Developer;DevSecOps+%7C+AI+Systems+Builder;Kubernetes+%7C+Automation+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+%7C+Security+Engineer+%7C+Cloud+Native+Developer;DevSecOps+%7C+AI+Systems+Builder;Kubernetes+%7C+Automation+%7C+Security" />
 </p>
 
 <p align="center">
@@ -64,20 +64,11 @@ AI-powered mobility system with eKYC verification, tracking, and rider-passenger
 ### Resume Intelligence SaaS
 AI system that generates and evaluates ATS-optimized resumes using LLM scoring.
 
-### Kubernetes Home Lab
-Cloud-native environment for deployments, scaling, and DevOps experimentation.
-
-### Security Research Lab
-OWASP-based security testing environment for vulnerability research.
-
-### IT Automation Systems
-Enterprise automation tools for identity management and IT workflows.
-
 ---
 
 ## Contact
 
 📧 donaldkimtai623@gmail.com  
-📍 Nairobi, Kenya  
+
 
 Open to opportunities in **Cloud Engineering, Security, and AI Systems**
