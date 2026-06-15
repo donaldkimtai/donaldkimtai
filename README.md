@@ -78,7 +78,12 @@ AI-powered mobility ecosystem with rider/customer apps, real-time tracking, and 
 </p>
 
 ---
+## GitHub Streak
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=donaldkimtai&theme=github-dark&hide_border=true" />
+</p>
+---
 ## Contact
 
 📧 donaldkimtai623@gmail.com  
