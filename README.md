@@ -1,7 +1,7 @@
 <h1 align="center">Donald Kimtai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Security+Engineer+%7C+Cloud+Native+Developer;DevSecOps+%7C+AI+Systems+Builder;Kubernetes+%7C+Automation+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Security+Engineer+%7C+Cloud+Native+Developer;DevSecOps+%7C+AI+Systems+Engineer;Kubernetes+%7C+Automation+%7C+Security+Engineering" />
 </p>
 
 <p align="center">
@@ -20,13 +20,9 @@
 
 ## About
 
-Cloud-native engineer focused on building **secure, scalable, and production-grade systems** across AI, infrastructure, and automation.
+Cloud-native and security-focused software engineer building **secure, scalable, and production-grade systems** across AI, infrastructure, and automation.
 
-I work across:
-- Cloud & DevOps engineering
-- Security engineering (DevSecOps mindset)
-- AI-powered systems
-- IT automation & infrastructure tooling
+I design systems that solve real operational problems using modern engineering practices.
 
 ---
 
@@ -55,30 +51,15 @@ I work across:
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=donaldkimtai&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## Featured Projects
 
 ### BodaGO Platform
-AI-powered mobility system with rider/passenger apps, real-time tracking, and eKYC verification engine.
+AI-powered mobility ecosystem with rider/customer apps, real-time tracking, and eKYC verification for secure onboarding.
+
+---
 
 ### Resume Intelligence SaaS
-AI-powered ATS resume builder with scoring engine and role-based optimization.
-
-### Kubernetes Home Lab
-Cloud-native environment for learning deployments, scaling, and DevOps workflows.
-
-### Security Research Lab
-OWASP-focused security testing environment for vulnerability analysis and bug bounty practice.
-
-### IT Automation Systems
-Automation tools for IT operations, identity management, and workflow optimization.
+AI system that generates and evaluates ATS-optimized resumes using intelligent scoring and role-based tailoring.
 
 ---
 
@@ -87,4 +68,4 @@ Automation tools for IT operations, identity management, and workflow optimizati
 📧 donaldkimtai623@gmail.com  
 📍 Nairobi, Kenya  
 
-Open to opportunities in **Cloud Engineering, Security, and AI Systems**
+Open to opportunities in **Cloud Engineering, DevSecOps, and AI Systems**
