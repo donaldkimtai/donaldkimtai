@@ -1,7 +1,7 @@
 <h1 align="center">Donald Kimtai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Security+Engineer+%7C+Cloud+Native+Developer;DevSecOps+%7C+AI+Systems+Engineer;Kubernetes+%7C+Automation+%7C+Security+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+%7C+Security+Engineer+%7C+Cloud+Native+Developer;DevSecOps+%7C+AI+Systems+Engineer;Building+Scalable+Digital+Products+from+Nairobi" />
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ## About
 
-Cloud-native and security-focused software engineer building **secure, scalable, and production-grade systems** across AI, infrastructure, and automation.
+Software Engineer focused on building **secure, scalable, and production-grade digital systems** across AI, mobile, and web platforms.
 
-I design systems that solve real operational problems using modern engineering practices.
+I specialize in turning ideas into **real deployed products** with clean architecture and modern engineering practices.
 
 ---
 
@@ -31,6 +31,34 @@ I design systems that solve real operational problems using modern engineering p
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,flutter,docker,kubernetes,linux,git,azure,firebase,bash" />
 </p>
+
+---
+
+## Featured Products
+
+### Resume Intelligence Platform
+AI-powered resume builder that generates ATS-optimized CVs with intelligent scoring and job-role tailoring.
+
+🔗 Live: https://patacv.vercel.app/
+
+---
+
+### Producer Portfolio Platform
+A modern music producer website for showcasing beats, branding, and creative portfolios.
+
+🔗 Live: https://beatsbykode.vercel.app/
+
+---
+
+### 📱 eKYC Mobile Verification System
+Flutter-based identity verification system designed for document capture, validation, and onboarding workflows.
+
+🔗 Repo: https://github.com/donaldkimtai/flutter_kenya_ekyc
+
+---
+
+### BodaGO Platform
+AI-powered mobility ecosystem with rider/customer apps, real-time tracking, and digital onboarding workflows.
 
 ---
 
@@ -51,21 +79,9 @@ I design systems that solve real operational problems using modern engineering p
 
 ---
 
-## Featured Projects
-
-### BodaGO Platform
-AI-powered mobility ecosystem with rider/customer apps, real-time tracking, and eKYC verification for secure onboarding.
-
----
-
-### Resume Intelligence SaaS
-AI system that generates and evaluates ATS-optimized resumes using intelligent scoring and role-based tailoring.
-
----
-
 ## Contact
 
 📧 donaldkimtai623@gmail.com  
 📍 Nairobi, Kenya  
 
-Open to opportunities in **Cloud Engineering, DevSecOps, and AI Systems**
+Open to opportunities in **Software Engineering, DevSecOps, and AI Systems Development**
