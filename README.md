@@ -46,7 +46,7 @@ AI-powered resume builder that generates ATS-optimized CVs with intelligent scor
 ### Producer Portfolio Platform
 A modern music producer website for showcasing beats, branding, and creative portfolios.
 
-🔗 Live: https://beatsbykode.vercel.app/
+🔗 Live: https://beatsbykode.co.ke/
 
 ---
 
