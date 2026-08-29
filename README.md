@@ -39,7 +39,6 @@ I specialize in turning ideas into **real deployed products** with clean archite
 ### Resume Intelligence Platform
 AI-powered resume builder that generates ATS-optimized CVs with intelligent scoring and job-role tailoring.
 
-🔗 Live: https://patacv.vercel.app/
 
 ---
 
